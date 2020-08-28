@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:92551
+#EXT-X-KEY:METHOD=AES-128,URI="https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w189918324_b684100_sleng.m3u8?enc=LUGSNCXWB_iU0PPNtUK8ew&id=ODA1MmYwMWFlODU4YjkyYjAzNmUzYmU0NTIzMzY1MmI=&exp=1598588461"
+#EXTINF:10.0,
+https://vcdnjt.useetv.com/joss/15/kompastv/media_w189918324_b684100_sleng_92551.ts
+#EXTINF:10.0,
+https://vcdnjt.useetv.com/joss/15/kompastv/media_w189918324_b684100_sleng_92552.ts
+#EXTINF:10.0,
+https://vcdnjt.useetv.com/joss/15/kompastv/media_w189918324_b684100_sleng_92553.ts
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,AVERAGE-BANDWIDTH=2000000
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w189918324_b684100_sleng.m3u8
