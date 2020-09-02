@@ -29,6 +29,42 @@ http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&tok
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsport3.jpg" group-title="Sports",FOX SPORTS 3
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 1 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/48
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 2 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/44
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 3 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/40
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 4 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/36
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 5 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/32
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 6 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/28
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 7 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/24
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 8 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/20
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 9 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/15
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 10 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/12
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 11 
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/9
+#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 12
+#EXTVLCOPT:network-caching=1000
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 1 ARB
 #EXTVLCOPT:network-caching=1000
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/808
