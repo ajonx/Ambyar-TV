@@ -13,14 +13,12 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 #EXTINF:-1 tvg-logo="https://mola01.koicdn.com/assets-global/images/mola_logo_horizontal.png" group-title="Sports", Mola TV
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports",BEINSPORTS 1
-http://mahs.work:80/Bc:14:85:bb:15:1d/hDRnr8SlGd/30628
-#EXTINF:1- tvg-logo="https://macan.live/img/beinar.png" group-title="Sports",BEINSPORTS 2
-http://mahs.work:80/Bc:14:85:bb:15:1d/hDRnr8SlGd/30640
-#EXTINF:-1 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports",BEINSPORTS 3
-http://mahs.work:80/Bc:14:85:bb:15:1d/hDRnr8SlGd/30627
-#EXTINF:-1 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports",BEINSPORTS 4
-http://mahs.work:80/Bc:14:85:bb:15:1d/hDRnr8SlGd/30635
+#EXTINF:-1 tvg-id="Bein Sports 1 Australia" tvg-name="Bein Sports 1 Australia" tvg-logo="https://i.imgur.com/7Rb7QMA.jpg" group-title="Sports",Bein Sports 1 Australia
+http://livetv.grabdeal.xyz/aubeinsport1
+#EXTINF:-1 tvg-id="Bein Sports 2 Australia" tvg-name="Bein Sports 2 Australia" tvg-logo="https://i.imgur.com/BhdU8ok.jpg" group-title="Sports",Bein Sports 2 Australia
+http://livetv.grabdeal.xyz/aubeinsport2
+#EXTINF:-1 tvg-id="Bein Sports 3 Australia" tvg-name="Bein Sports 3 Australia" tvg-logo="https://i.imgur.com/xa6NemA.jpg" group-title="Sports",Bein Sports 3 Australia
+http://livetv.grabdeal.xyz/aubeinsport3
 
 #EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/03/foxsporthd.jpg" group-title="Sports",FOX SPORTS 1
 http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28675?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
@@ -65,45 +63,33 @@ http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/9
 #EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 12
 #EXTVLCOPT:network-caching=1000
 http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 1 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/808
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 2 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/803
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 3 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/802
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 4 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/801
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 5 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/800
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 6 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/799
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 7 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/798
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 8 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/797
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 9 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/796
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 10 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/807
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 11 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/806
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 12 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/805
-#EXTINF:0 tvg-logo="https://macan.live/img/beinar.png" group-title="Sports", beINSport 13 ARB
-#EXTVLCOPT:network-caching=1000
-http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/804
+
+#EXTINF:-1 tvg-id="Bein Sports 1" tvg-name="Bein Sports 1" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/13734_bein1.jpg" group-title="Sports",Bein Sports 1
+http://livetv.grabdeal.xyz/beinsport1
+#EXTINF:-1 tvg-id="Bein Sports 2" tvg-name="Bein Sports 2" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/80440_bein2.jpg" group-title="Sports",Bein Sports 2
+http://livetv.grabdeal.xyz/beinsport2
+#EXTINF:-1 tvg-id="Bein Sports 3" tvg-name="Bein Sports 3" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/63775_bein3.jpg" group-title="Sports",Bein Sports 3
+http://livetv.grabdeal.xyz/beinsport3
+#EXTINF:-1 tvg-id="Bein Sports 4" tvg-name="Bein Sports 4" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/7327_bein4.jpg" group-title="Sports",Bein Sports 4
+http://livetv.grabdeal.xyz/beinsport4
+#EXTINF:-1 tvg-id="Bein Sports 5" tvg-name="Bein Sports 5" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/3620_bein5.jpg" group-title="Sports",Bein Sports 5
+http://livetv.grabdeal.xyz/beinsport5
+#EXTINF:-1 tvg-id="Bein Sports 6" tvg-name="Bein Sports 6" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/99479_bein6.jpg" group-title="Sports",Bein Sports 6
+http://livetv.grabdeal.xyz/beinsport6
+#EXTINF:-1 tvg-id="Bein Sports 7" tvg-name="Bein Sports 7" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/86845_bein7.jpg" group-title="Sports",Bein Sports 7
+http://livetv.grabdeal.xyz/beinsport7
+#EXTINF:-1 tvg-id="Bein Sports 8" tvg-name="Bein Sports 8" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/35475_bein8.jpg" group-title="Sports",Bein Sports 8
+http://livetv.grabdeal.xyz/beinsport8
+#EXTINF:-1 tvg-id="Bein Sports 9" tvg-name="Bein Sports 9" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/6184_bein9.jpg" group-title="Sports",Bein Sports 9
+http://livetv.grabdeal.xyz/beinsport9
+#EXTINF:-1 tvg-id="Bein Sports 10" tvg-name="Bein Sports 10" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/12693_bein10.jpg" group-title="Sports",Bein Sports 10
+http://livetv.grabdeal.xyz/beinsport10
+#EXTINF:-1 tvg-id="Bein Sports 11" tvg-name="Bein Sports 11" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/55939_bein11.jpg" group-title="Sports",Bein Sports 11
+http://livetv.grabdeal.xyz/beinsport11
+#EXTINF:-1 tvg-id="Bein Sports 12" tvg-name="Bein Sports 12" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/75926_bein12.jpg" group-title="Sports",Bein Sports 12
+http://livetv.grabdeal.xyz/beinsport12
+#EXTINF:-1 tvg-id="Bein Sports 13" tvg-name="Bein Sports 13" tvg-logo="http://swiftstreamz.com/SwiftPanel/images/13951_bein13.jpg" group-title="Sports",Bein Sports 13
+http://livetv.grabdeal.xyz/beinsport13
 
 #EXTINF:0 tvg-logo="https://macan.live/img/assp.png" group-title="Sports", Astro SuperSport 1 
 #EXTVLCOPT:network-caching=1000
@@ -117,27 +103,6 @@ http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/19172
 #EXTINF:0 tvg-logo="https://macan.live/img/assp4.png" group-title="Sports", Astro SuperSport 4 
 #EXTVLCOPT:network-caching=1000
 http://mainpanel01.club:8080/dt6SU8zQDw/vnJxFk69h2/19173
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports1.png" group-title="Sports", SkyNet Sports 1 MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/1159
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports2.png" group-title="Sports", SkyNet Sports 2 MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/1158
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports3.png" group-title="Sports", SkyNet Sports 3 MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/1157
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports4.png" group-title="Sports", SkyNet Sports 4 MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/1156
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports5.png" group-title="Sports", SkyNet Sports 5 MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/1155
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsports6.png" group-title="Sports", SkyNet Sports 6 MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/1154
-#EXTINF:0 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-skynetsportshd.png" group-title="Sports", SkyNet Sports HD MY
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/9113
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png",EUROSPORTS 1
 http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
@@ -152,6 +117,7 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Arena Sport 4
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+
 #EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports",EUROSPORT 4K-1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
 #EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports",EUROSPORT 4K-2
@@ -346,49 +312,6 @@ http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2670
 #EXTVLCOPT:network-caching=1000
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/2671
 
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport 1 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10751
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport 2 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10749
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport 3 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10748
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sports 1 HD VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10813
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sports 2 HD VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10812
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sports 3 HD VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10811
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport Extra 1 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10752
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport Extra 2 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10741
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport Extra 3 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10742
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport Extra 4 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10743
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport Extra 5 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10744
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport Extra 6 VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10745
-#EXTINF:0 tvg-logo=" " group-title="Sports",BT Sport ESPN VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10750
-#EXTINF:0,BT Sports ESPN HD VIP UK
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/10810
-
 #EXTINF:0,PT: Sport TV 1 
 #EXTVLCOPT:network-caching=1000
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3694
@@ -419,38 +342,6 @@ http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3702
 #EXTINF:0,PT: Sport TV 5 HD
 #EXTVLCOPT:network-caching=1000
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3703
-
-
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 1 PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/2678
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 1 HD PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/7425
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 2 PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/2677
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 2 HD PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/78312
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 3 PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/2676
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 3 HD PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/78313
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 4 PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/2675
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 4 HD PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/78314
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 5 PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/2674
-#EXTINF:0 tvg-logo=" " group-title="Sports",SportTV 5 HD PT
-#EXTVLCOPT:network-caching=1000
-http://jaze.xyz:8080/justforfun/fYvk3cQzJ9/48359
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s32.postimg.cc/5coedna8l/EUROSPOPRT.png",EUROSPORTS 1
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-eurosport_480/playlist.m3u8
