@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png" group-title="Local Channel", RCTI 
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TBJXrmd/gtvlogo.png" group-title="Local Channel", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s2nKBhz/inewslogo.png" group-title="Local Channel", iNEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5nj7gFv/mnctvlogo.png" group-title="Local Channel", MNCTV
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-tZGbgfwqWTI/W0__9ckxzLI/AAAAAAAAl24/LHbrC6AHZlkxao2fL8XYssDfvDb8OW0iwCLcBGAs/s1600/tv-sport-channel-logo.png" group-title="Sports", TVRI Sports
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -117,6 +117,97 @@ http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/897.m3u8?checkedby
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/896.m3u8?checkedby
 #EXTINF:-1 tvg-logo=" " group-title="Sports", Arena Sport 4
 http://cdn1.stbconnect.com:25461/live/SFRa5oBeKo/l34i9fX1MI/895.m3u8?checkedby
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORTS (USEETV)", bein1
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein1&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORTS (USEETV)", bein2
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=bein2&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS (USEETV)", champion1
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion1&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS (USEETV)", champion2
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=champion2&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="SPORTS (USEETV)", egg
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=egg&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS (USEETV)", foxsport1
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=foxsport1&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS (USEETV)", foxsport2
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=foxsport2&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS (USEETV)", foxsport3
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=foxsport3&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png?v=2.0.0.14" group-title="SPORTS (USEETV)", golfplus
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=golfplus&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS (USEETV)", nba
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=nba&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png?v=2.0.0.13" group-title="SPORTS (USEETV)", useesport
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesport&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS (USEETV)", useesports2
+http://iptv-wow.my.id/tv/gen/vitc.m3u8?channel=useesports2&token=1869dd25c08d33db68ef79b8643ac2176daf3448123f12dce9e77bc78f7efef3
+#EXTINF: -1 tvg-logo="https://p.kindpng.com/picc/s/442-4420265_transparent-nbc-sports-logo-hd-png-download.png" group-title="SPORTS (USEETV)", NBCSN
+http://p2p.tv247.us/live/nbcsn/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="SPORTS (USEETV)", Bein 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="SPORTS (USEETV)", Bein 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/d6b9eb9c-6edd-479f-9f47-a45eec3a5e37/1108212332004208271" group-title="SPORTS (USEETV)", Fox Sport 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/d6b9eb9c-6edd-479f-9f47-a45eec3a5e37/1108212332004208271" group-title="SPORTS (USEETV)", Fox Sport 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://ms-f7-sites-01-cdn.azureedge.net/docs/stories/fox-sports/resources/d6b9eb9c-6edd-479f-9f47-a45eec3a5e37/1108212332004208271" group-title="SPORTS (USEETV)", Fox Sport 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORTS (USEETV)", True Premier 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_original.png" group-title="SPORTS (USEETV)", True Premier 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/d777c947-a608-4d84-b61a-3d1d04d05ba0_320.png" group-title="SPORTS (USEETV)", True Premier 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/75919016-2ada-45ac-8ed5-5ba134c439a9_320.png" group-title="SPORTS (USEETV)", True Premier 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/396-3960747_bt-sport-broadcasts-42-premie-bt-sport-tv.png" group-title="SPORTS (USEETV)", BT Sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://png.pngitem.com/pimgs/s/396-3960747_bt-sport-broadcasts-42-premie-bt-sport-tv.png" group-title="SPORTS (USEETV)", BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="SPORTS (USEETV)", NBA
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv1.jpg" group-title="SPORTS (USEETV)", Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv2.jpg" group-title="SPORTS (USEETV)", Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv3.jpg" group-title="SPORTS (USEETV)", Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv4.jpg" group-title="SPORTS (USEETV)", Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="SPORTS (USEETV)", Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-golf.png" group-title="SPORTS (USEETV)", Golf Channel
+https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tennis.png" group-title="SPORTS (USEETV)", True Tennis HD
+https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7ec3pQoteZTGuErqYKzauAv1Or9QhudDgYw&usqp=CAU" group-title="SPORTS (USEETV)", True Sport 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-chelseatv.jpg" group-title="SPORTS (USEETV)", Chelsea TV
+https://www.livedoomovies.com/02_ChelseaTV_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-mutv.jpg" group-title="SPORTS (USEETV)", MU TV
+https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-liverpool.jpg" group-title="SPORTS (USEETV)", LFC TV
+https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-wwe.jpg" group-title="SPORTS (USEETV)", WWE TV
+https://www.livedoomovies.com/02_WWE_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport1.jpg" group-title="SPORTS (USEETV)", EURO Sports 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-eurosport2.jpg" group-title="SPORTS (USEETV)", EURO Sports 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.infosat.de/sites/default/files/styles/580x390/adaptive-image/public/news/Eurosport4K_655440_0.jpg" group-title="Sports",EUROSPORT 4K-1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
