@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://uload.ru.com/cdn/premium123/chunks.m3u8
+
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://uload.ru.com/cdn/premium124/chunks.m3u8
